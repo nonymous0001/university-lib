@@ -15,6 +15,8 @@ const ibmPlexSans = localFont({
   ],
 });
 
+console.log(ibmPlexSans,"ibmPlexSans")
+
 const bebasNeue = localFont({
   src: [
     { path: "/fonts/BebasNeue-Regular.ttf", weight: "400", style: "normal" },
